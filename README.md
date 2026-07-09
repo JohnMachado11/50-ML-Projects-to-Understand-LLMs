@@ -1,2 +1,32 @@
-# ML4LLM
-Code and materials for the book "50 ML projects to understand LLMs"
+# 50 ML Projects to Understand LLMs
+
+Materials for the book *"50 ML Projects to Understand LLMs: Investigate transformer mechanisms through data analysis, visualization, and experimentation"* by Mike X Cohen, PhD.
+
+## About
+
+Learn how LLMs like **GPT** and **BERT** actually work by applying machine-learning techniques to their internal activations. Instead of building LLMs from scratch or using them through APIs, you investigate their mechanisms by treating **hidden states, attention patterns, and embeddings as data to analyze**.
+
+Across 50 hands-on projects, you'll:
+
+- Inspect and visualize transformer internals
+- Analyze attention mechanisms and layer dynamics
+- Apply statistical and causal methods to understand model behavior
+- Manipulate activations to test hypotheses about LLM mechanisms
+
+Each project builds skills in three areas: machine-learning techniques, LLM mechanisms, and Python coding with data visualization.
+
+## Prerequisites
+
+- Python programming (beginner–intermediate)
+- Basic familiarity with ML concepts — helpful, but not required (the book introduces techniques as needed)
+- Curiosity about how LLMs work
+
+## Code & notebooks
+
+Every project ships a **helper** notebook (scaffolded code to complete yourself) and a **solution** notebook (complete reference). All notebooks run on **Google Colab** — no local install required.
+
+## Links
+
+- 📕 Book — [Amazon (paperback)](https://www.amazon.com/Projects-Understand-LLMs-visualization-experimentation-ebook/dp/B0H1D5ZFVH) · [Gumroad (PDF)](https://mikexcohen.gumroad.com/l/ml4llms)
+- 💻 Official code repository — https://github.com/mikexcohen/ML4LLM_book
+- 💬 Discord — https://discord.gg/t9UAkKyR95
