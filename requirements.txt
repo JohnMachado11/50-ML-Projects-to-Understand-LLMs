@@ -1,0 +1,35 @@
+# Requirements for "50 ML Projects to Understand LLMs" (Mike X Cohen)
+# The book's notebooks target Google Colab; this reproduces that library stack locally.
+# Versions are intentionally left unpinned — for exact reproducibility, match Colab's versions.
+
+# --- Core LLM / deep learning ---
+torch
+transformers
+datasets
+tiktoken
+
+# --- Numerical & data ---
+numpy
+pandas
+scipy
+
+# --- Machine learning & statistics ---
+scikit-learn
+statsmodels
+xgboost
+pingouin
+
+# --- Visualization ---
+matplotlib
+seaborn
+
+# --- Data sourcing (Project Gutenberg texts, website HTML, Wikipedia) ---
+requests
+wikipedia
+
+# --- Utilities ---
+tqdm
+
+# --- Notebook environment (only needed to run the .ipynb files locally; Colab already has these) ---
+jupyterlab
+ipykernel
