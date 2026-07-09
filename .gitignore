@@ -160,3 +160,6 @@ Instructor_Files/
 # Markdown files (notes/analysis — not tracked), except README
 *.md
 !README.md
+
+# Claude Code local settings
+.claude/
