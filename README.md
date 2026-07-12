@@ -21,12 +21,11 @@ Each project builds skills in three areas: machine-learning techniques, LLM mech
 - Basic familiarity with ML concepts — helpful, but not required (the book introduces techniques as needed)
 - Curiosity about how LLMs work
 
-## Code & notebooks
+## Code
 
-Every project ships a **helper** notebook (scaffolded code to complete yourself) and a **solution** notebook (complete reference). All notebooks run on **Google Colab** — no local install required.
+Each project is worked in its own `code.ipynb`, under `Chapter_<N>_<Topic>/<NN>_<project>/`. These are my own worked solutions. The book's *helper* (scaffolded) and *solution* (reference) notebooks are **not** included here — find those in the [official code repository](https://github.com/mikexcohen/ML4LLM_book). Code runs locally or on **Google Colab**.
 
 ## Links
 
 - 📕 Book — [Amazon (paperback)](https://www.amazon.com/Projects-Understand-LLMs-visualization-experimentation-ebook/dp/B0H1D5ZFVH) · [Gumroad (PDF)](https://mikexcohen.gumroad.com/l/ml4llms)
 - 💻 Official code repository — https://github.com/mikexcohen/ML4LLM_book
-- 💬 Discord — https://discord.gg/t9UAkKyR95
